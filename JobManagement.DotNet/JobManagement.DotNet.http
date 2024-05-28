@@ -1,0 +1,14 @@
+@JobManagement.DotNet_HostAddress = https://localhost:7099
+
+GET {{JobManagement.DotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{JobManagement.DotNet_HostAddress}}/weatherforecast
+
+###
+
+GET {{JobManagement.DotNet_HostAddress}}/weatherforecast
+
+###
